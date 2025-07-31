@@ -45,6 +45,14 @@
 
 ## 🚀 Demo (Sample Output)
 
-```text
-Day 1: Charminar → Chowmahalla Palace → Hussain Sagar
-Day 2: Golconda Fort → Salar Jung Museum → Birla Mandir
+## 📥 User Input Example
+![User Input](images/input.png)
+
+## 🗓️ Generated Itinerary – Day 1
+![Day 1 Itinerary](images/day1_itinerary.png)
+
+## 🗓️ Generated Itinerary – Day 2
+![Day 2 Itinerary](images/day2_itinerary.png)
+
+## 🗓️ Generated Itinerary – Day 3
+![Day 3 Itinerary](images/day3_itinerary.png)
